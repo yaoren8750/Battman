@@ -1,0 +1,2119 @@
+# Chinese translations for Battman package
+# Battman 軟件包的繁體中文翻譯.
+# Copyright (C) 2025 Torrekie <me@torrekie.dev>
+# This file is distributed under the same license as the Battman package.
+# Automatically generated, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Battman 1.0.3.3\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-01-19 14:04+0800\n"
+"PO-Revision-Date: 2025-01-27 17:32+0800\n"
+"Last-Translator: Torrekie <me@torrekie.dev>\n"
+"Language-Team: none\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "OK"
+msgstr "好"
+
+msgid "Failed"
+msgstr "失敗"
+
+msgid "Error"
+msgstr "錯誤"
+
+msgid "None"
+msgstr "無"
+
+msgid "mA"
+msgstr "mA"
+
+msgid "mAh"
+msgstr "mAh"
+
+msgid "mV"
+msgstr "mV"
+
+msgid "True"
+msgstr "是"
+
+msgid "False"
+msgstr "否"
+
+msgid "Swipe up to exit"
+msgstr "向上輕掃以退出"
+
+msgid "Done"
+msgstr "完成"
+
+msgid "Logs"
+msgstr "日誌"
+
+msgid "More"
+msgstr "更多"
+
+msgid "Torrekie's website (zh_CN)"
+msgstr "Torrekie的網站（簡體中文）"
+
+msgid "Follow @Torrekie_G"
+msgstr "關注 @Torrekie_G"
+
+msgid "Subscribe me on Bilibili"
+msgstr "在 Bilibili 關注我"
+
+msgid "Follow u/Torrekie on Reddit"
+msgstr "在 Reddit 關注 u/Torrekie"
+
+msgid "WeChat: Torrekie"
+msgstr "WeChat 公眾號：Torrekie"
+
+msgid "About Battman"
+msgstr "關於Battman"
+
+msgid "Debug"
+msgstr "調試"
+
+msgid "Gonna tell us something?"
+msgstr "想告訴我們點什麼嗎？"
+
+msgid ""
+"Found a bug or have an idea? Please choose one way to contact us:\n"
+"open a GitHub Issue (public — great for steps/logs)\n"
+"or Send Email (for private info or attachments). We really appreciate your "
+"help!"
+msgstr ""
+"發現問題或有好點子？請選擇一種方式聯繫我們：\n"
+"在 GitHub 提交 Issue（公開，適合附上重現步驟/日誌）\n"
+"或通過電子郵件發送給我們（適合私密信息或附件）。\n"
+"非常感謝你的反饋！"
+
+msgid "Open GitHub Issue"
+msgstr "在 GitHub 提交疑述"
+
+msgid "Send Email"
+msgstr "發送郵件"
+
+msgid "Cancel"
+msgstr "取消"
+
+msgid "WeChat"
+msgstr "WeChat"
+
+msgid "Copy \"Torrekie\" and search in WeChat?"
+msgstr "複製並在 WeChat 中搜索“Torrekie”？"
+
+msgid "Continue"
+msgstr "繼續"
+
+msgid "Version"
+msgstr "版本"
+
+msgid "Preferences"
+msgstr "一般"
+
+msgid "Report Bug"
+msgstr "反饋問題"
+
+msgid "Credit"
+msgstr "致謝"
+
+msgid "Source Code"
+msgstr "原始碼"
+
+msgid "Battman User Manual"
+msgstr "Battman 用戶手冊"
+
+msgid "Support Us"
+msgstr "贊助我們"
+
+msgid "View Battman On Havoc"
+msgstr "在 Havoc 查看 Battman"
+
+msgid "Join Battman Discord"
+msgstr "加入 Battman Discord"
+
+msgid "Logs (stdout)"
+msgstr "日誌（標準輸出）"
+
+msgid "Select language override"
+msgstr "設置語言"
+
+msgid "Exit App"
+msgstr "退出App"
+
+msgid "Logs (stdout) (very cool)"
+msgstr "日誌（標準輸出）（超級炫酷版）"
+
+msgid "Redirect daemon logs"
+msgstr "重定向值守進程日誌"
+
+msgid "Show fatal error view"
+msgstr "顯示致命錯誤視圖"
+
+msgid "Trigger fatal notify"
+msgstr "觸發致命通知"
+
+msgid "Trigger UTF jitter"
+msgstr "觸發UTF抖動"
+
+msgid "Remove token and exit"
+msgstr "移除 token 並退出"
+
+msgid "Battman Credit"
+msgstr "Battman 貢獻者名單"
+
+msgid "Charging Management"
+msgstr "充電管理"
+
+msgid "General"
+msgstr "通用"
+
+msgid "Smart Charging"
+msgstr "優化電池充電"
+
+msgid "Low Power Mode"
+msgstr "低電量模式"
+
+msgid ""
+"These values can’t be overridden when the Charging Limit daemon is running."
+msgstr "當「充電限制」值守進程正在運行時，這些數值將無法更改。"
+
+msgid "Certain values may not be overridable when no wired A/C connected."
+msgstr "在未連接有線電源時，部分數值可能無法更改。"
+
+msgid ""
+"Certain values may not be overridable when Optimized Battery Charging is "
+"enabled."
+msgstr "當「優化電池充電」功能啓用時，某些數值可能無法被覆蓋。"
+
+#, objc-format
+msgid ""
+"Block Charging suspends battery charging and allows the battery to discharge "
+"while maintaining power source operation. %@"
+msgstr "「阻止充電」將暫停電池充電並允許電池放電，但仍保持電源供電。%@"
+
+msgid ""
+"Smart Charging will start 900 seconds (15 minutes) after power is plugged-"
+"in, or the date you scheduled, whichever one comes first."
+msgstr ""
+"「優化電池充電」將在接通電源 900 秒（15 分鐘）後，或您選擇的日期開始，以較早者"
+"為準。"
+
+msgid "Enabled"
+msgstr "已啓用"
+
+msgid "Disabled"
+msgstr "已禁用"
+
+msgid "Never been used before"
+msgstr "此前從未使用過"
+
+#, objc-format
+msgid " since %@"
+msgstr "於%@"
+
+#, objc-format
+msgid " at %d%% charge"
+msgstr "在電量為%d%%時"
+
+msgid "These settings are retained across iTunes backups and restores."
+msgstr "這些設定將在通過 iTunes 備份或恢復時保留。"
+
+msgid "Not supported on this device"
+msgstr "此設備不支持"
+
+msgid "Something went wrong when setting this property."
+msgstr "設定此項時發生錯誤。"
+
+#, objc-format
+msgid "Current device has no builtin LowPowerMode framework (%@)."
+msgstr "當前設備沒有內置 LowPowerMode 框架（%@）。"
+
+msgid "Failed to load"
+msgstr "無法加載"
+
+msgid "Unable to set Low Power Mode."
+msgstr "無法設置「低電量模式」"
+
+#, objc-format
+msgid "This device does not allow setting notify register '%s'."
+msgstr "此設備不允許設置通知註冊器『%s』"
+
+#, objc-format
+msgid "This device does not seem to be using notify register '%s'."
+msgstr "此設備似乎未使用通知註冊器『%s』"
+
+msgid "Failed to enable Smart Charging."
+msgstr "無法開啓優化電池充電。"
+
+msgid "Engaged"
+msgstr "已啓用"
+
+msgid ""
+"Smart Charging has been engaged. It will start after 15 minutes of power "
+"supply, or at the date you picked, whichever comes first."
+msgstr ""
+"優化電池充電功能已啓用。它將在接通電源 900 秒（15 分鐘）後，或您選擇的日期開"
+"始，以較早者為準。"
+
+msgid "Block Charging"
+msgstr "阻止充電"
+
+msgid "Block Power Supply"
+msgstr "阻止外部供電"
+
+msgid "Starting at"
+msgstr "始於"
+
+msgid "Until"
+msgstr "直到"
+
+msgid "Schedule"
+msgstr "設定計劃"
+
+msgid "Disable on A/C"
+msgstr "接入電源時禁用"
+
+msgid "Disable When Exceeds"
+msgstr "達量時禁用"
+
+msgid "Hide Low Power Alert"
+msgstr "隱藏電量低提示"
+
+msgid "Thermometer Icon"
+msgstr "「溫度計」圖標"
+
+msgid "Temperature Range"
+msgstr "溫度範圍"
+
+msgid "Thermometer Preview"
+msgstr "「溫度計」預覽"
+
+msgid "Set the temperature range shown in Thermometer."
+msgstr "設置「溫度計」中顯示的溫度範圍。"
+
+msgid ""
+"This preview shows how the pointer adjusts to match the current temperature "
+"based on your selected range."
+msgstr "此預覽顯示指針如何根據當前溫度在您設定的範圍內調整位置。"
+
+msgid "Min Temperature"
+msgstr "最低溫度"
+
+msgid "Max Temperature"
+msgstr "最高溫度"
+
+msgid "Agree"
+msgstr "同意"
+
+msgid "Decline"
+msgstr "拒絕"
+
+msgid "License"
+msgstr "證書"
+
+msgid "Terms of Use"
+msgstr "使用條款"
+
+msgid "Device Avg."
+msgstr "設備平均"
+
+msgid "Battery Cell 1"
+msgstr "電池電芯1"
+
+msgid "Battery Cell 2"
+msgstr "電池電芯2"
+
+msgid "Battery Cell 3"
+msgstr "電池電芯3"
+
+msgid "Battery Cell 4"
+msgstr "電池電芯4"
+
+msgid "Camera Module"
+msgstr "相機模塊"
+
+#. TRANSLATORS: This is indicating 'Thermal Pressure', please make sure it won't be longer than 'Pressure' to ensure it can be fully displayed
+msgid "Pressure"
+msgstr "溫控壓力"
+
+msgid "Thermal Notification Level"
+msgstr "溫控通知等級"
+
+msgid "Max Trigger Temperature"
+msgstr "最大觸發溫度"
+
+msgid "Sunlight Exposure"
+msgstr "陽光暴曬"
+
+msgid "Hardware Temperature"
+msgstr "硬件溫度"
+
+msgid "System Thermal Monitor State"
+msgstr "系統溫控狀態"
+
+msgid "Thermal Basics"
+msgstr "溫控信息"
+
+msgid "Device Sensors"
+msgstr "設備傳感器"
+
+msgid "HID"
+msgstr "HID"
+
+msgid "HID Raw Data"
+msgstr "HID原始數據"
+
+msgid "Adjust ThermalMonitor behavior on the Thermal Tunes page."
+msgstr "可在「溫控調校」頁面調整溫控監測器的行為。"
+
+msgid "Some sensors may not provide real‑time temperature data."
+msgstr "某些傳感器可能無法實時提供溫度數據。"
+
+msgid "Daemon State"
+msgstr "值守進程狀態"
+
+msgid ""
+"ThermalMonitor is a critical system component responsible for managing "
+"device and battery health. Disabling it may lead to unexpected behavior and "
+"is not recommended."
+msgstr ""
+"溫度監測器是維護設備與電池健康的重要系統組件。手動禁用可能導致不可預期的行"
+"為，不建議進行此操作。"
+
+msgid ""
+"Maximum device‑skin temperature per thermal‑monitoring cycle. Exceeding this "
+"threshold within the cycle automatically generates an AppleCare "
+"thermal‑exception log."
+msgstr ""
+"單次溫控監測週期內允許的最高機身表面溫度。若在該週期內超過此閾值，系統將自動"
+"記錄 AppleCare 溫控異常日誌。"
+
+msgid "Running"
+msgstr "正在運行"
+
+msgid "Simulator"
+msgstr "虛擬機"
+
+msgid "Unable to detect"
+msgstr "無法檢測"
+
+msgid "CLTM State"
+msgstr "CLTM狀態"
+
+msgid "Using CLTMv2"
+msgstr "使用CLTMv2"
+
+msgid "Unsupported"
+msgstr "不支持"
+
+msgid "Not Running"
+msgstr "不在運行"
+
+msgid "Battman"
+msgstr "Battman"
+
+msgid "2025 Ⓒ Torrekie <me@torrekie.dev>"
+msgstr "2025 版權所有 Torrekie <me@torrekie.dev>"
+
+msgid "Debug Commit"
+msgstr "測試版本 Commit"
+
+msgid "Commit"
+msgstr "提交號"
+
+msgid "Sandboxed"
+msgstr "正在沙盒中運行"
+
+msgid "Simulator Sandboxed"
+msgstr "正在虛擬機沙盒中運行"
+
+msgid "Simulator Unsandboxed"
+msgstr "未在虛擬機沙盒中運行"
+
+msgid "Roothide Unsandboxed"
+msgstr "未在 Roothide 沙盒中運行"
+
+msgid "Unsandboxed"
+msgstr "未在沙盒中運行"
+
+msgid "Platfomized"
+msgstr "已平台化"
+
+msgid "Debugger Attached"
+msgstr "已附加調試器"
+
+msgid "Battery"
+msgstr "電池"
+
+msgid "Battery Info"
+msgstr "電池信息"
+
+msgid "Brightness"
+msgstr "亮度"
+
+msgid "Manage"
+msgstr "管理"
+
+msgid "Unimplemented Yet"
+msgstr "尚未實裝"
+
+msgid "Will be introduced in future updates."
+msgstr "將於未來的更新中推出"
+
+msgid "Charging Limit"
+msgstr "充電限制"
+
+msgid "Thermal Tunes"
+msgstr "溫控調校"
+
+msgid "Analytics"
+msgstr "分析"
+
+msgid "Sorry"
+msgstr "抱歉"
+
+msgid "Please download Battman from our official page."
+msgstr "請從我們的官方頁面下載 Battman。"
+
+msgid "Open URL"
+msgstr "打開 URL"
+
+msgid "Exit"
+msgstr "退出"
+
+msgid "Preferred Language"
+msgstr "首選語言"
+
+msgid "Clear"
+msgstr "清除"
+
+msgid "Default"
+msgstr "默認"
+
+msgid "Brightness Slider"
+msgstr "亮度滑塊"
+
+msgid "Brightness Limits (nits)"
+msgstr "亮度限制 (nits)"
+
+msgid "Slider Max"
+msgstr "滑塊最大值"
+
+msgid "Dimming"
+msgstr "調暗"
+
+msgid "EDR"
+msgstr "EDR"
+
+msgid "Present"
+msgstr "當前"
+
+msgid "Physical"
+msgstr "實際亮度"
+
+msgid "Min (Dimming)"
+msgstr "最低值（調暗）"
+
+msgid "Battery Avg."
+msgstr "電池平均"
+
+msgid "Sensors Avg."
+msgstr "傳感器平均"
+
+msgid "Main Screen"
+msgstr "主屏幕"
+
+msgid "Who moved my temperature sensors?"
+msgstr "誰動了我的溫度傳感器？"
+
+#, objc-format
+msgid "(partial) %016llX…"
+msgstr "(部分) %016llX…"
+
+msgid "Unknown array"
+msgstr "未知數組"
+
+#, objc-format
+msgid "(Unknown type) %0*llX"
+msgstr "(未知類型) %0*llX"
+
+msgid "Jump to"
+msgstr "跳轉到"
+
+msgid "Enter the key below."
+msgstr "在下方輸入鍵值。"
+
+msgid "Jump"
+msgstr "跳轉"
+
+msgid "Invalid key"
+msgstr "無效的鍵值"
+
+msgid "Key not found"
+msgstr "鍵值未找到"
+
+msgid "Click a row to edit"
+msgstr "點擊一項來編輯"
+
+msgid "Jump to key"
+msgstr "跳轉到鍵值"
+
+msgid "(Unable to read)"
+msgstr "(無法讀取)"
+
+msgid "Write to SMC"
+msgstr "寫入 SMC"
+
+msgid "Type Change"
+msgstr "更改類型"
+
+#, objc-format
+msgid ""
+"Are you sure you want to interpret the item \"%.4s\" as type \"%.4s\"? This "
+"may cause undefined behavior."
+msgstr "您確定要將項目「%.4s」解釋為類型「%.4s」嗎？這可能導致未定義行為。"
+
+msgid "Proceed"
+msgstr "繼續"
+
+msgid "Are you 100% sure?"
+msgstr "你是否百分百確定？"
+
+#, objc-format
+msgid ""
+"The type \"%.4s\" you requested is %d bytes long, which doesn't match the "
+"current length of %d bytes. Only continue if you're certain of the "
+"consequences. Proceed?"
+msgstr ""
+"您請求的類型「%.4s」的長度為 %d 字節，與當前長度 %d 字節不符。請確保萬無一失後"
+"再繼續。是否繼續？"
+
+msgid "Array"
+msgstr "數組"
+
+msgid "Element count mismatch."
+msgstr "成員數量不匹配。"
+
+msgid "Invalid value detected."
+msgstr "檢測到無效值。"
+
+msgid "Flags Editor"
+msgstr "標示位編輯器"
+
+msgid "Data too long"
+msgstr "過長的數據"
+
+msgid "Invalid flag value found"
+msgstr "無效的標示位值"
+
+msgid "Hex Editing"
+msgstr "十六進制編輯"
+
+msgid "Please use the hex editor below instead."
+msgstr "請使用下方的十六進制編輯器。"
+
+msgid "Hex Editor"
+msgstr "十六進制編輯器"
+
+msgid "Data length mismatch"
+msgstr "數據長度不符"
+
+msgid "Invalid value detected"
+msgstr "無效數值"
+
+msgid "Disclaimer"
+msgstr "免責聲明"
+
+msgid "Please read the entire message."
+msgstr "請完整閱讀此信息。"
+
+msgid ""
+"Writing to the SMC can be harmful. If unexpected behavior occurs, the "
+"developers offer NO WARRANTY to the fullest extent permitted by law."
+msgstr ""
+"寫入 SMC 可能會造成損壞。如發生意外情況，開發者在法律允許的最大範圍內不承擔任"
+"何保證責任。"
+
+msgid "Make sure you understand what you're doing before continuing."
+msgstr "在繼續之前，請確保您完全理解自己的操作。"
+
+msgid "I understand, write to SMC NOW"
+msgstr "我已知曉，現在寫入 SMC"
+
+msgid "AppleSMC"
+msgstr "Apple 系統管理控制器"
+
+msgid "Failed to write to SMC."
+msgstr "未能寫入 SMC。"
+
+#, objc-format
+msgid "%.4s(%d byte(s)) %.4s"
+msgstr "%.4s(%d 字節) %.4s"
+
+msgid "Hex Dump"
+msgstr "十六進制轉儲"
+
+msgid "No data is sent to the SMC until you click \"Write to SMC.\""
+msgstr "在點擊 「寫入 SMC」 之前，不會向 SMC 寫入任何數據。"
+
+msgid "Refetch Data"
+msgstr "刷新數據"
+
+msgid "Screen Hardware Temperature"
+msgstr "屏幕硬件溫度"
+
+msgid "Resolution"
+msgstr "分辨率"
+
+msgid "Color Gamut"
+msgstr "色域"
+
+msgid "Temperature"
+msgstr "溫度"
+
+msgid "Night Shift"
+msgstr "夜覽"
+
+msgid "True Tone"
+msgstr "原彩顯示"
+
+msgid "Unknown"
+msgstr "未知"
+
+msgid "Learn more…"
+msgstr "瞭解更多…"
+
+#, objc-format
+msgid "Review the documentation before making any changes. %@"
+msgstr "在進行任何更改之前，請先查閱文檔。%@"
+
+msgid "Hot-In-Pocket Mode"
+msgstr "口袋過熱（Hot-In-Pocket）模式"
+
+msgid "Thermal Levels"
+msgstr "溫控等級"
+
+msgid ""
+"Changing the default thermal behavior may increase wear on your battery and "
+"reduce its lifespan."
+msgstr "更改默認溫控行為可能會增加電池損耗並縮短電池使用壽命。"
+
+msgid ""
+"Hot-In-Pocket Protection automatically reduces CPU & GPU power when the "
+"display is off and no media is playing, to prevent overheating while the "
+"device is stored in a pocket."
+msgstr ""
+"口袋過熱（Hot-In-Pocket）保護在屏幕關閉且不播放任何媒體時自動降低 CPU 與 GPU "
+"活動，避免設備在口袋中積熱。"
+
+msgid ""
+"Thermal levels are normally controlled by the system. Changing them can "
+"affect power, media playback, backlight, flashlight and wireless charging."
+msgstr ""
+"溫控等級通常由系統控制。更改這些設置可能會影響功耗、媒體播放、背光、手電筒和"
+"無線充電。"
+
+msgid "State Updates"
+msgstr "狀態更新"
+
+msgid "Whether applications receive thermal state updates"
+msgstr "應用程序是否接收溫控狀態更新"
+
+msgid "Thermal Mitigations"
+msgstr "熱緩解"
+
+msgid "Reduce power budget when heating"
+msgstr "設備升溫時降低功耗預算"
+
+msgid "Enable"
+msgstr "啓用"
+
+msgid "Simulate HIP"
+msgstr "模擬口袋過熱"
+
+msgid "Auto Detect"
+msgstr "自動檢測"
+
+msgid "Exposure Mode"
+msgstr "暴曬模式"
+
+msgid "Status"
+msgstr "狀態"
+
+msgid "Unavailable"
+msgstr "不可用"
+
+msgid "Tap to adjust"
+msgstr "輕點以調整"
+
+msgid "Notification"
+msgstr "通知"
+
+msgid "Reset"
+msgstr "重置"
+
+#, objc-format
+msgid ""
+"Setting thermal pressure to %@ may trigger a persistent temperature warning "
+"screen. Do you want to continue?"
+msgstr "將溫控壓力設置為「%@」可能會觸發持續的溫度警告屏幕。是否繼續？"
+
+msgid "Thermal Tuning failed with error"
+msgstr "溫控調校發生錯誤"
+
+msgid "locale_name"
+msgstr "中文"
+
+msgid "Unregistered Locale"
+msgstr "未註冊的本地化"
+
+msgid ""
+"You are using a localization file which not officially provided by Battman, "
+"the translations may inaccurate."
+msgstr "您正在使用的本地化文件並非由 Battman 官方所提供，譯文可能存在偏差。"
+
+msgid ""
+"stdio logs not redirected in Simulator build, please check stdio in Xcode "
+"console output instead."
+msgstr ""
+"標準輸出日誌在Simulator構建中不被重定向，請直接在Xcode Console中查看輸出。"
+
+msgid "Battman CLI not implemented yet."
+msgstr "Battman 命令行工具尚未實現。"
+
+msgid "Discharge, Keep A/C"
+msgstr "電池放電，保留外部電源"
+
+msgid "Block A/C"
+msgstr "阻止外部電源"
+
+msgid "Failed to open daemon settings file"
+msgstr "無法打開值守進程配置文件"
+
+msgid "File mapping failed"
+msgstr "文件分配失敗"
+
+msgid "7-Day Battery Level"
+msgstr "7天電池電量"
+
+msgid "Charging Limit (Experimental)"
+msgstr "充電限制（實驗性功能）"
+
+msgid ""
+"The system logs battery charge–level changes for the past 7 days. If this "
+"graph is empty, the power-log service may not be running correctly."
+msgstr ""
+"系統會記錄過去 7 天的電池電量變化。若此圖無數據顯示，可能是電源日誌服務未正常"
+"運行。"
+
+msgid ""
+"Charging Limit uses a background service to monitor your battery's charge "
+"level and automatically adjust charging behavior."
+msgstr "「充電限制」需要在後台運行服務，以監控電池電量並自動調整充電行為。"
+
+msgid "Invalid Setup"
+msgstr "無效設置"
+
+msgid "Limit Value should be bigger than Resume Value"
+msgstr "「充電上限」需大於「耗電下限」"
+
+msgid "Unable to connect to the daemon."
+msgstr "無法連接到值守進程。"
+
+msgid "Couldn't start the daemon — it isn’t responding."
+msgstr "無法啓動值守進程——服務無響應"
+
+msgid "When limit is reached"
+msgstr "當達到限制時"
+
+msgid "Limit charging at (%)"
+msgstr "充電上限（%）"
+
+msgid "Resume charging at (%)"
+msgstr "耗電下限（%）"
+
+msgid "Drain Mode"
+msgstr "耗電模式"
+
+msgid "Override OBC On Cycle"
+msgstr "循環時覆蓋「優化電池充電」"
+
+msgid "OBC will turn off"
+msgstr "「優化電池充電」將被禁用"
+
+msgid "OBC will not be affected"
+msgstr "「優化電池充電」將不受影響"
+
+msgid "Daemon is active"
+msgstr "值守進程正在運行"
+
+msgid "PID"
+msgstr "進程ID"
+
+msgid "Daemon is inactive"
+msgstr "值守進程未啓動"
+
+#, objc-format
+msgid "Stop Daemon %@"
+msgstr "停止值守進程%@"
+
+#, objc-format
+msgid "Start Daemon %@"
+msgstr "開啓值守進程%@"
+
+msgid "(Enforce Mode)"
+msgstr "(強制模式)"
+
+msgid "(Soft Mode)"
+msgstr "(軟模式)"
+
+msgid "Battman charging limits are enforced"
+msgstr "強制啓用 Battman 充電限制"
+
+msgid "OBC may ignore Battman charging limits"
+msgstr "「優化電池充電」可能不會遵守 Battman 充電限制"
+
+msgid "Localizations"
+msgstr "本地化"
+
+msgid "Language changes will take effect after restarting the app."
+msgstr "語言更改將在重啓應用後生效。"
+
+msgid "Create a new GitHub issue"
+msgstr "創建新的 GitHub 疑述"
+
+#, objc-format
+msgid "Battman hasn't added your language yet. %@"
+msgstr "Battman 尚未支持你的語言，%@"
+
+msgid ""
+"Battery information updates automatically depending on system conditions."
+msgstr "「電池信息」會根據系統狀況自動更新。"
+
+#, objc-format
+msgid "Battery information updates at the selected interval. %@"
+msgstr "「電池信息」會按所選間隔更新。%@"
+
+msgid "Using a shorter interval may affect performance."
+msgstr "間隔過短可能會影響性能。"
+
+msgid ""
+"Battery information doesn’t update automatically. Pull down to refresh "
+"manually."
+msgstr "「電池信息」不會自動更新。下拉以手動刷新。"
+
+msgid "Configure how often battery information is refreshed."
+msgstr "設置「電池信息」的刷新頻率。"
+
+msgid "Battery Info Refresh Rate"
+msgstr "「電池信息」刷新頻率"
+
+msgid "Appearance"
+msgstr "外觀"
+
+msgid "Data Management"
+msgstr "數據管理"
+
+msgid ""
+"This will permanently delete all Battman data, preferences, and cached "
+"files. This action cannot be undone."
+msgstr ""
+"這將永久刪除 Battman 的全部數據，設置項以及緩存文件。這項操作無法撤銷。"
+
+msgid "Language"
+msgstr "語言"
+
+msgid "Interval (s)"
+msgstr "間隔（秒）"
+
+#. TRANSLATORS: Please ensure this string won't be longer as "Custom"
+msgid "Custom"
+msgstr "自定義"
+
+msgid "Auto"
+msgstr "自動"
+
+msgid "Never"
+msgstr "永不"
+
+msgid "Brightness Icon"
+msgstr "「亮度」圖標"
+
+msgid "SDR"
+msgstr "SDR"
+
+msgid "Quartz"
+msgstr "Quartz"
+
+msgid "Wipe All Battman Data"
+msgstr "抹除全部 Battman 數據"
+
+#, objc-format
+msgid ""
+"This will wipe all data under:\n"
+"%@"
+msgstr ""
+"這將移除以下路徑中的全部數據：\n"
+"%@"
+
+#, objc-format
+msgid "This will wipe all data under %@"
+msgstr "這將移除位於 %@ 的全部數據"
+
+msgid "Dry Run"
+msgstr "試運行"
+
+msgid "Dry Run Analysis…"
+msgstr "試運行統計…"
+
+msgid "Wiping Data…"
+msgstr "抹掉數據中…"
+
+msgid "Please wait while analyzing what would be deleted."
+msgstr "請等待直至統計出可被刪除的數據。"
+
+msgid "Please wait while all data is being deleted."
+msgstr "請等待直至刪除全部數據。"
+
+msgid "Dry Run Complete"
+msgstr "試運行完成"
+
+msgid ""
+"Analysis complete. Check the console/logs to see what would be deleted. No "
+"data was actually removed."
+msgstr ""
+"統計完成，檢查控制台或日誌以查看可被刪除的數據。這個過程沒有數據被刪除。"
+
+msgid "Data Wiped"
+msgstr "數據已抹除"
+
+msgid "All Battman data has been successfully deleted. The app will now exit."
+msgstr "所有 Battman 數據已成功抹除，本應用程序將退出。"
+
+msgid "Patreon"
+msgstr "Patreon"
+
+msgid "Afdian"
+msgstr "愛發電"
+
+msgid "UniFans"
+msgstr "引力圈"
+
+msgid "Support Battman"
+msgstr "支持 Battman"
+
+msgid ""
+"If Battman saved you time or made your day easier, please consider a small "
+"donation. Even a few dollars make a real difference and help me keep adding "
+"improvements (also helps my living)."
+msgstr ""
+"如果 Battman 幫助到了您，可以考慮給我們一點點的捐贈。即使是幾塊錢也可以推進一"
+"切，促使我繼續完善更新（而且也能幫助我的生活）。"
+
+msgid "You can at least get Battman early accesses by donating us 🥺"
+msgstr "捐贈我們至少可以得到 Battman 的優先預覽🥺"
+
+msgid "Don't worry about annoyance, this page only popup itself for once 🥺"
+msgstr "請不要擔心騷擾，這個頁面只會主動彈出一次🥺"
+
+msgid "Having Problems?"
+msgstr "遇到問題？"
+
+msgid ""
+"We'd love to hear from you! Let us know if you find any bugs or have "
+"suggestions to make things better."
+msgstr ""
+"我們非常樂意聽取您的意見！請讓我們知道您是否遇到了任何故障或是有什麼提議，以"
+"便讓一切朝著更好的方向發展。"
+
+msgid "Send an Email"
+msgstr "發送郵件"
+
+msgid "No, thanks"
+msgstr "不用了，謝謝"
+
+#, objc-format
+msgid "Goto %@"
+msgstr "前往%@"
+
+#, objc-format
+msgid "Error when opening URL: %@"
+msgstr "打開 URL 時發生錯誤：%@"
+
+msgid "Your device does not support sending Emails."
+msgstr "您的設備不支持發送郵件。"
+
+msgid "Primary Screen"
+msgstr "主屏幕"
+
+msgid "Advanced"
+msgstr "高級"
+
+msgid "Specs (Basic)"
+msgstr "參數（基本）"
+
+msgid ""
+"These limitations are typically determined by the hardware and returned by "
+"the Brightness system."
+msgstr "這些限制通常由硬件定義，並由亮度系統返回。"
+
+msgid ""
+"These parameters are sourced from the system’s high-level graphics layer. "
+"Because the display is ultimately composed through CoreAnimation and "
+"backboardd before it reaches the screen hardware, the values shown here are "
+"estimates and may not precisely reflect the true behavior of the physical "
+"display."
+msgstr ""
+"這些參數來自系統的圖形層。由於顯示內容最終是通過 CoreAnimation 和 backboardd "
+"後傳遞給屏幕硬件，因此此處顯示的數值只是大致估算，且可能無法完全反映顯示器硬"
+"件的真實行為。"
+
+msgid "Brightness Backend"
+msgstr "亮度後端"
+
+msgid "Standard"
+msgstr "標準"
+
+msgid "ID"
+msgstr "ID"
+
+msgid "Ambient Light Sensor"
+msgstr "環境光傳感器"
+
+msgid "Refresh Rate"
+msgstr "刷新率"
+
+msgid "Color Depth"
+msgstr "色彩深度"
+
+msgid "Bits"
+msgstr "位"
+
+msgid "Unusual Panel ID"
+msgstr "異常的面板ID"
+
+msgid "Current part might not be genuine."
+msgstr "當前部件可能不是正品。"
+
+msgid "Copied!"
+msgstr "已複製"
+
+msgid ""
+"No value returned from sensor, device should be checked by service "
+"technician."
+msgstr "無法獲取設備傳感器數據，建議預約授權服務商進行設備檢測。"
+
+msgid ""
+"Value exceeded the designed, device should be checked by service technician."
+msgstr "數據超出設計範圍，建議預約授權服務商進行設備檢測。"
+
+msgid "Unusual value, device should be checked by service technician."
+msgstr "不正常的數據，建議預約授權服務商進行設備檢測。"
+
+msgid ""
+"Significant abnormal data, device should be checked by service technician."
+msgstr "明顯異常的數據，建議預約授權服務商進行設備檢測。"
+
+msgid "Error Data"
+msgstr "錯誤的數據"
+
+msgid "Unusual Data"
+msgstr "異常的數據"
+
+msgid "Data Too Large"
+msgstr "過大的數據"
+
+msgid "Empty Data"
+msgstr "空數據"
+
+msgid "Wrong Data"
+msgstr "有問題的數據"
+
+msgid "Internal Battery"
+msgstr "設備電池"
+
+msgid "Type"
+msgstr "類型"
+
+msgid ""
+"\"External Power\" indicator may suggest that the connected adapter is a "
+"wireless charger. Most information may not be displayed because wireless "
+"chargers are handled differently by the hardware."
+msgstr ""
+"「外部電源」可能表示所連接的適配器為無線充電器。大部分信息可能未顯示，因為無線"
+"充電器由硬件以不同方式處理。"
+
+msgid "Remaining Capacity"
+msgstr "剩餘容量"
+
+msgid ""
+"Unusual Remaining Capacity, a non-genuine battery component may be in use."
+msgstr "電池剩餘容量數據異常，使用的可能是未經認證的電池部件。"
+
+msgid "Estimated Remaining"
+msgstr "預估剩餘"
+
+msgid "Remaining Capacity not detected."
+msgstr "未獲取到剩餘容量。"
+
+msgid "Cycle Count"
+msgstr "循環計數"
+
+msgid ""
+"Cycle Count exceeded designed cycle count, consider replacing with a genuine "
+"battery."
+msgstr "已循環超過設計標準的週期次數，建議更換原廠電池組件。"
+
+msgid "Time to Empty"
+msgstr "耗盡時間"
+
+msgid "Unusual Time to Empty, a non-genuine battery component may be in use."
+msgstr "電池耗盡時間異常，使用的可能是未經認證的電池部件。"
+
+msgid "Depth of Discharge"
+msgstr "放電深度"
+
+msgid ""
+"Unusual Depth of Discharge, a non-genuine battery component may be in use."
+msgstr "電池化學放電深度異常，使用的可能是未經認證的電池部件。"
+
+msgid "Not HVC"
+msgstr "非高壓充電"
+
+msgid "Software Controlled"
+msgstr "軟件控制"
+
+msgid "Helper failed to launch"
+msgstr "輔助程序啓動失敗"
+
+msgid "IOMainPort Open Failed"
+msgstr "IOMainPort 開啓失敗"
+
+msgid "AppleSMC Unsupported"
+msgstr "不支持 Apple 系統管理控制器"
+
+msgid "AppleSMC Open Failed"
+msgstr "無法開啓 Apple 系統管理控制器"
+
+msgid "Fully Charged"
+msgstr "已充滿電"
+
+msgid "Too Cold"
+msgstr "溫度過低"
+
+msgid "Too Hot"
+msgstr "溫度過高"
+
+msgid "Too Cold To Start"
+msgstr "溫度過低，無法開始"
+
+msgid "Too Hot To Start"
+msgstr "溫度過高，無法開始"
+
+msgid "Charger Wachdog Timeout"
+msgstr "充電器超時"
+
+msgid "Battery Not Present"
+msgstr "未檢測到電池"
+
+msgid "VBUS Not Present"
+msgstr "未檢測到總線供電"
+
+msgid "High SoC High Temp Stopped"
+msgstr "電量與溫度高而停止"
+
+msgid "Sensor Communication Failed"
+msgstr "傳感器交互失敗"
+
+msgid "Accessory Connecting"
+msgstr "正在連接配件"
+
+msgid "Kiosk Mode"
+msgstr "展示模式"
+
+msgid "CoreMotion"
+msgstr "CoreMotion"
+
+msgid "USB-PD Connecting"
+msgstr "正在連接USB-PD"
+
+msgid "setbatt Controlled"
+msgstr "setbatt控制"
+
+msgid "Predictive Charging"
+msgstr "優化電池充電"
+
+msgid "Wireless Charger Controlled"
+msgstr "無線充電控制"
+
+msgid "Gas Gauge FW Updating"
+msgstr "電量計固件正在升級"
+
+msgid "Battery Inhibit Inflow Unsupported"
+msgstr "不支持電池充電流抑制"
+
+msgid "PCTM"
+msgstr "PCTM"
+
+msgid "Inhibit Client Adapter"
+msgstr "抑制客戶端適配器"
+
+msgid "Cell Voltage Too High"
+msgstr "電芯電壓過高"
+
+msgid "Battery Not Requesting Charge"
+msgstr "電池未請求充電"
+
+msgid "Camera Streaming"
+msgstr "相機流式傳輸"
+
+msgid "VACTFB"
+msgstr "VACTFB"
+
+msgid "Field Diagnostics"
+msgstr "診斷"
+
+msgid "Inhibit Inflow"
+msgstr "電流抑制"
+
+msgid "Carrier Mode Testing"
+msgstr "測試運輸模式"
+
+msgid "Vbatt Fault"
+msgstr "電池電壓故障"
+
+msgid "Ibatt MinFault"
+msgstr "電池電流故障"
+
+msgid "Charger Communication Failure"
+msgstr "充電器交互失敗"
+
+msgid "Cell Check Fault"
+msgstr "電芯檢查失敗"
+
+msgid "Charged Too Long"
+msgstr "充電時間過長"
+
+msgid "Permanent Battery Failure"
+msgstr "電池永久故障"
+
+msgid "No Battery"
+msgstr "無電池"
+
+msgid "Bad Battery"
+msgstr "電池故障"
+
+msgid "Using AC Power"
+msgstr "正在使用交流電源"
+
+msgid "G3 Mechanical Off"
+msgstr "G3 設備休眠"
+
+msgid "Adapter Disabled"
+msgstr "適配器未啓用"
+
+msgid "Unknown Adapter"
+msgstr "未知適配器"
+
+msgid "Adapter Not Allowed"
+msgstr "不受允許的適配器"
+
+msgid "Calibration"
+msgstr "校准中"
+
+msgid "Charging Disabled"
+msgstr "充電已關閉"
+
+msgid "OS Charging Disabled"
+msgstr "系統充電已關閉"
+
+msgid "Charging Limit Reached"
+msgstr "達到充電限制"
+
+msgid "Upstream Charging Disabled"
+msgstr "上行充電已關閉"
+
+msgid "PowerManagement Charging Disabled"
+msgstr "電源管理充電已關閉"
+
+msgid "Battery Temperature over 50℃"
+msgstr "電池溫度大於50℃"
+
+msgid "Battery Temperature over 45℃"
+msgstr "電池溫度大於45℃"
+
+msgid "Temperature Gradient Too High"
+msgstr "溫度梯度過高"
+
+msgid "TEMP_NOT_ATV_VLD"
+msgstr "TEMP_NOT_ATV_VLD"
+
+msgid "BATTERY_TCA"
+msgstr "BATTERY_TCA"
+
+msgid "OW_TDM_LINK_ACTIVE"
+msgstr "OW_TDM_LINK_ACTIVE"
+
+msgid "VACTFB_NO_CHG"
+msgstr "VACTFB_NO_CHG"
+
+msgid "INVALID_NOT_CHARGING_REASON_VALUE"
+msgstr "INVALID_NOT_CHARGING_REASON_VALUE"
+
+msgid "Disconnected"
+msgstr "未連接"
+
+msgid "FireWire"
+msgstr "FireWire"
+
+msgid "USB Host"
+msgstr "USB接口"
+
+msgid "USB SDP"
+msgstr "USB標準下行端口"
+
+msgid "USB Device"
+msgstr "USB設備"
+
+msgid "USB Adapter"
+msgstr "USB適配器"
+
+msgid "USB DCP"
+msgstr "USB專用充電端口"
+
+msgid "USB CDP"
+msgstr "USB充電下行端口"
+
+msgid "USB CP"
+msgstr "USB充電端口"
+
+msgid "Unknown USB"
+msgstr "未知USB"
+
+msgid "USB-C Brick"
+msgstr "USB-C 電源磚"
+
+msgid "USB-C Type-C"
+msgstr "USB-C Type-C"
+
+msgid "USB-C PD"
+msgstr "USB-C PD"
+
+msgid "AC Power"
+msgstr "交流電源"
+
+msgid "Externel Power 1"
+msgstr "外部電源1"
+
+msgid "Externel Power 2"
+msgstr "外部電源2"
+
+msgid "Externel Power 3"
+msgstr "外部電源3"
+
+msgid "Externel Power 4"
+msgstr "外部電源4"
+
+msgid "Externel Power 5"
+msgstr "外部電源5"
+
+msgid "Externel Power 6"
+msgstr "外部電源6"
+
+msgid "Externel Power 7"
+msgstr "外部電源7"
+
+msgid "Nominal"
+msgstr "正常"
+
+msgid "Light"
+msgstr "輕微"
+
+msgid "Moderate"
+msgstr "中度"
+
+msgid "Heavy"
+msgstr "重度"
+
+msgid "Trapping"
+msgstr "熱量滯留"
+
+msgid "Sleeping"
+msgstr "休眠"
+
+msgid "Normal"
+msgstr "正常"
+
+msgid "70% Torch"
+msgstr "閃光燈衰減至70%"
+
+msgid "70% Backlight"
+msgstr "背光衰減至70%"
+
+msgid "50% Torch"
+msgstr "閃光燈衰減至50%"
+
+msgid "50% Backlight"
+msgstr "背光衰減至50%"
+
+msgid "Torch Disabled"
+msgstr "閃光燈已禁用"
+
+msgid "25% Backlight"
+msgstr "背光衰減至25%"
+
+msgid "Maps halo Disabled"
+msgstr "地圖指南針已禁用"
+
+msgid "App Terminated"
+msgstr "App 終止運行"
+
+msgid "Device Restart"
+msgstr "設備重新啓動"
+
+msgid "Ready"
+msgstr "已準備好"
+
+msgid "℃"
+msgstr "℃"
+
+msgid "%"
+msgstr "%"
+
+msgid "mW"
+msgstr "mW"
+
+msgid "min"
+msgstr "分鐘"
+
+msgid "Hr"
+msgstr "Hr"
+
+msgid "Gas Gauge (Basic)"
+msgstr "電量監測計（基本）"
+
+msgid ""
+"All Gas Gauge metrics are dynamically retrieved from the onboard sensor "
+"array in real time. Should anomalies be detected in specific readings, this "
+"may indicate the presence of unauthorized components or require diagnostics "
+"through Apple Authorised Service Provider."
+msgstr ""
+"本設備所有電量監測計（Gas Gauge）數據均實時讀取自內置傳感器系統。若您發現部分"
+"數值存在異常，則可能涉及未經認證的組件、集成或設備傳感單元。如果需要檢測。建"
+"議通過 Apple 認證服務渠道進行專業診斷。"
+
+msgid "Device Name"
+msgstr "設備名稱"
+
+msgid ""
+"This indicates the name of the current Gas Gauge IC used by the installed "
+"battery."
+msgstr "當前電池使用的電量監測計芯片的名稱。"
+
+msgid "Health"
+msgstr "電池健康"
+
+msgid "SoC"
+msgstr "電池餘量"
+
+msgid "Avg. Temperature"
+msgstr "平均溫度"
+
+msgid "Charging"
+msgstr "正在充電"
+
+msgid "Full Charge Capacity"
+msgstr "滿充容量"
+
+msgid "Designed Capacity"
+msgstr "設計容量"
+
+msgid "Battery Uptime"
+msgstr "電池運行時長"
+
+msgid "The length of time the Battery Management System (BMS) has been up."
+msgstr "從電池管理系統啓動開始的時長。"
+
+msgid "Qmax"
+msgstr "最大化學容量"
+
+msgid ""
+"Current chemical depth of discharge (DOD₀). The gas gauge updates "
+"information on the DOD₀ based on open-circuit voltage (OCV) readings when in "
+"a relaxed state."
+msgstr ""
+"當前化學放電深度（DOD₀），電量監測計會根據處於 relaxed 狀態時開路電壓（OCV）"
+"讀數更新化學放電深度的信息。"
+
+msgid "Passed Charge"
+msgstr "充放累積"
+
+msgid ""
+"The cumulative capacity of the current charging or discharging cycle. It is "
+"reset to zero with each DOD₀ update."
+msgstr ""
+"在當前放電或充電期間集成的計數，每次化學放電深度（DOD₀）更新時，PassedCharge "
+"會重置為零"
+
+msgid "Voltage"
+msgstr "電壓"
+
+msgid "Avg. Current"
+msgstr "平均電流"
+
+msgid "Avg. Power"
+msgstr "平均功率"
+
+msgid "Cell Count"
+msgstr "電芯數量"
+
+msgid "Designed Cycle Count"
+msgstr "設計循環次數"
+
+msgid "State of Charge"
+msgstr "充電狀態"
+
+msgid "State of Charge (UI)"
+msgstr "充電狀態（UI）"
+
+msgid ""
+"The \"Battery Percentage\" displayed exactly on your status bar. This is the "
+"SoC that Apple wants to tell you."
+msgstr "狀態欄上所顯示的「電量百分比」，是 Apple 想讓用戶知道的「充電狀態」。"
+
+msgid "Resistance Scale"
+msgstr "阻抗系數"
+
+msgid "Battery Serial No."
+msgstr "電池序列號"
+
+msgid "Chemistry ID"
+msgstr "化合物ID"
+
+msgid ""
+"Chemistry unique identifier (ChemID) assigned to each battery in Texas "
+"Instruments' database. It ensures accurate calculations and predictions."
+msgstr ""
+"化合物ID（ChemID）是德州儀器數據庫中為每個電池配置分配的唯一標識符，其可確保"
+"準確的計算和預測。"
+
+msgid "Flags"
+msgstr "標示位"
+
+msgid "True Remaining Capacity"
+msgstr "真實剩餘容量"
+
+msgid "OCV Current"
+msgstr "開路電流"
+
+msgid "OCV Voltage"
+msgstr "開路電壓"
+
+msgid "Max Load Current"
+msgstr "最大負荷電流"
+
+msgid "Max Load Current 2"
+msgstr "最大負荷電流2"
+
+msgid "IT Misc Status"
+msgstr "IT 雜項數據"
+
+msgid ""
+"This field refers to the miscellaneous data returned by battery Impedance "
+"Track™ Gas Gauge IC."
+msgstr "此項指電池的 Impedance Track™ 所返回的電量監測計雜項數據。"
+
+msgid "Simulation Rate"
+msgstr "模擬頻率"
+
+msgid ""
+"This field refers to the rate of Gas Gauge performing Impedance Track™ "
+"simulations."
+msgstr "此項指電量監測計執行 Impedance Track™ 模擬的頻率。"
+
+msgid "Daily Max SoC"
+msgstr "單日最大餘量"
+
+msgid "Daily Min SoC"
+msgstr "單日最小餘量"
+
+msgid "Adapter Details"
+msgstr "適配器信息"
+
+msgid ""
+"All adapter information is dynamically retrieved from the hardware of the "
+"currently connected adapter (or cable if you are using Lightning ports). If "
+"any of the data is missing, it may indicate that the power source is not "
+"providing the relevant information, or there may be a hardware issue with "
+"the power source."
+msgstr ""
+"所有電源適配器信息均來源於當前設備連接的電源適配器硬件（或者 Lightning 數據"
+"線）。如果其中任何一項信息為空，可能意味著所連接的電源未提供相關數據，或電源"
+"可能存在硬件故障。"
+
+msgid "Port"
+msgstr "端口"
+
+msgid ""
+"Port of currently connected adapter. On macOS, this is the USB port that the "
+"adapter currently attached."
+msgstr "已連接的適配器所在的端口，在 macOS 中，表示當前所連接的 USB 端口。"
+
+msgid "Adapter Type"
+msgstr "適配器類型"
+
+msgid "Compatibility"
+msgstr "兼容性"
+
+msgid ""
+"This field refers to the Family Code (kIOPSPowerAdapterFamilyKey) of "
+"currently connected power adapter."
+msgstr "此參數表示當前電源適配器的「類型代碼」（kIOPSPowerAdapterFamilyKey）。"
+
+msgid "Reason"
+msgstr "原因"
+
+msgid ""
+"If this field appears in the list, it indicates that an issue has occurred "
+"or that a condition was met, causing charging to stop."
+msgstr ""
+"當此項出現在列表中時，表示發生了問題或滿足了某個條件，從而導致充電停止。"
+
+msgid "Current Rating"
+msgstr "額定電流"
+
+msgid ""
+"Current rating of connected power source, this does not indicates the real-"
+"time passing current."
+msgstr "當前電源的額定電流，此參數不表示實時輸入電流。"
+
+msgid "Voltage Rating"
+msgstr "額定電壓"
+
+msgid ""
+"Voltage rating of connected power source, this does not indicates the real-"
+"time passing voltage."
+msgstr "當前電源的額定電壓，此參數不表示實時輸入電壓。"
+
+msgid "Input Current"
+msgstr "輸入電流"
+
+msgid "Real-time input current (IBUS) from the connected power source."
+msgstr "已連接電源的實時輸入電流（IBUS）。"
+
+msgid "Input Voltage"
+msgstr "輸入電壓"
+
+msgid "Real-time input voltage (VBUS) from the connected power source."
+msgstr "已連接電源的實時輸入電壓（VBUS）。"
+
+msgid "Charging Current"
+msgstr "充電電流"
+
+msgid "The real-time passing current to internal battery."
+msgstr "設備電池的實時輸入電流。"
+
+msgid "Charging Voltage"
+msgstr "充電電壓"
+
+msgid "The real-time passing voltage to internal battery."
+msgstr "設備電池的實時輸入電壓。"
+
+msgid "Charger IC ID"
+msgstr "充電芯片ID"
+
+msgid "Model Name"
+msgstr "型號名稱"
+
+msgid "Manufacturer"
+msgstr "生產企業"
+
+msgid "Model"
+msgstr "型號號碼"
+
+msgid "Firmware Version"
+msgstr "固件版本"
+
+msgid "Hardware Version"
+msgstr "硬件版本"
+
+msgid "Description"
+msgstr "描述"
+
+msgid ""
+"Short description provided by Apple PMU on current power adapter Family "
+"Code. Sometimes may not set."
+msgstr "Apple 電源管理單元對當前電源適配器類型提供的簡短描述，有時可能為空。"
+
+msgid "Serial No."
+msgstr "序列號"
+
+msgid "PMU Configuration"
+msgstr "電源管理單元配置"
+
+msgid ""
+"The Configuration values is the max allowed Charging Current configurations."
+msgstr "「配置」數值是允許的最大「充電電流」配置。"
+
+msgid "Charger Configuration"
+msgstr "充電器配置"
+
+msgid "HVC Mode"
+msgstr "高壓充電模式"
+
+msgid ""
+"High Voltage Charging (HVC) Mode may accquired by your power adapter or "
+"system, all supported modes will be listed below."
+msgstr ""
+"高壓充電（HVC）模式可能由您的電源適配器或系統啓用。所有支持的模式將列於下方。"
+
+msgid "Inductive Port"
+msgstr "非接觸式接口"
+
+msgid "Acc. ID"
+msgstr "配件ID"
+
+msgid "Port Type"
+msgstr "端口類型"
+
+msgid "Allowed Features"
+msgstr "允許的特性"
+
+msgid "Accessory Feature Flags, I don't know how to parse it yet."
+msgstr "配件允許特性標識位，我暫且不知道如何解析。"
+
+msgid "Product ID"
+msgstr "產品ID"
+
+msgid "Vendor ID"
+msgstr "廠商ID"
+
+msgid "Name"
+msgstr "名稱"
+
+msgid "PPID"
+msgstr "PPID"
+
+msgid "Battery Pack"
+msgstr "外接電池"
+
+msgid "This indicates if an accessory is now working as a Battery Pack."
+msgstr "此項表示當前配件是否作為外接電池運行。"
+
+msgid "Providing Power"
+msgstr "正在提供電源"
+
+msgid "This indicates if an accessory is now providing power."
+msgstr "此項表示當前配件是否正在提供電源。"
+
+msgid "Max Capacity"
+msgstr "最大容量"
+
+msgid "The accessory battery's Full Charge Capacity."
+msgstr "配件的滿充容量。"
+
+msgid "Current Capacity"
+msgstr "當前容量"
+
+msgid "Avg. Charging Current"
+msgstr "平均充電電流"
+
+msgid "Charging Voltage Rating"
+msgstr "額定充電電壓"
+
+msgid "Current"
+msgstr "電流"
+
+msgid "Real-time output current by attached accessory."
+msgstr "配件的實時輸出電流。"
+
+msgid "Real-time output voltage by attached accessory."
+msgstr "配件的實時輸出電壓。"
+
+msgid "Incoming Current"
+msgstr "輸入電流"
+
+msgid "Incoming Voltage"
+msgstr "輸入電壓"
+
+msgid "Accepting Charge"
+msgstr "正在接受充電"
+
+msgid "This indicates if accessory is accepting charge."
+msgstr "此項表示配件是否正在接受充電。"
+
+msgid "Acc. Time to Empty"
+msgstr "配件耗盡時間"
+
+msgid "Acc. Time to Full"
+msgstr "配件滿充時間"
+
+msgid "The accessory battery percentage reported by AppleSMC."
+msgstr "Apple 系統管理控制器報告的配件電量百分比。"
+
+msgid "Power Mode"
+msgstr "電源模式"
+
+msgid "Sleep Power"
+msgstr "睡眠電源"
+
+msgid "Supervised Acc. Attached"
+msgstr "受監管配件已連接"
+
+msgid "Supervised Transports Restricted"
+msgstr "監管傳輸已受限"
+
+msgid "Inductive FW Mode"
+msgstr "非接觸式固件模式"
+
+msgid "Inductive Region Code"
+msgstr "非接觸式區域代碼"
+
+msgid ""
+"This indicates if current inductive accesory is following specific region "
+"configuration."
+msgstr "此項表示目前配件是否遵循地區特定配置。"
+
+msgid "Inductive Auth Timeout"
+msgstr "非接觸式認證超時"
+
+msgid "Serial Port"
+msgstr "串行接口"
+
+msgid "Digital ID"
+msgstr "數字ID"
+
+msgid "The \"Chip ID\" of attached accessory."
+msgstr "接入設備的「芯片ID」。"
+
+msgid "ID Serial No."
+msgstr "設備序列號"
+
+msgid "Interface Device Serial Number (ID-SN)."
+msgstr "接口設備序列號（ID-SN）。"
+
+msgid "IM Serial No."
+msgstr "模塊序列號"
+
+msgid "Interface Module Serial Number (MSN)."
+msgstr "接口模塊序列號（MSN）。"
+
+msgid "Accessory Serial Number (ASN)."
+msgstr "配件序列號（ASN）。"
+
+msgid "USB Connect State"
+msgstr "USB連接狀態"
+
+msgid "USB Charging Volt."
+msgstr "USB充電電壓"
+
+msgid "USB Current Config"
+msgstr "USB電源配置"
+
+msgid "External Connected"
+msgstr "已連接電源"
+
+msgid "Charger Capable"
+msgstr "充電器兼容"
+
+msgid "Not Charging"
+msgstr "不在充電"
+
+msgid "Unspecified"
+msgstr "未指定"
+
+msgid "Configured Mode"
+msgstr "配置模式"
+
+msgid "Active Mode"
+msgstr "啓用模式"
+
+msgid "Limit"
+msgstr "限制"
+
+msgid "Active"
+msgstr "啓用"
+
+msgid "Inactive"
+msgstr "靜默"
+
+msgid "Published Type"
+msgstr "已配置類型"
+
+msgid "Charging Limit Unavailable"
+msgstr "充電限制不可用"
+
+msgid "Wireless Charging Detected"
+msgstr "檢測到無線充電"
+
+msgid ""
+"Charging limit controls are not supported with wireless charging. Use a wired "
+"connection for reliable functionality."
+msgstr ""
+"無線充電不支持充電限制控制。請使用有線連接以確保功能正常。"
+
+msgid "Accelerometer"
+msgstr "加速計"
+
+msgid "Gyroscope"
+msgstr "陀螺儀"
+
+msgid "Compass"
+msgstr "指南針"
+
+msgid "Atmos Pressure Sensor"
+msgstr "氣壓傳感器"
+
+msgid "Off"
+msgstr "關閉"
+
+msgid "Low"
+msgstr "低電流"
+
+msgid "On"
+msgstr "開啓"
+
+msgid "High Current"
+msgstr "高電流"
+
+msgid "High Current (BM3)"
+msgstr "高電流（BM3）"
+
+msgid "Low Voltage"
+msgstr "低電壓"
+
+msgid "Charger"
+msgstr "充電器"
+
+msgid "Host"
+msgstr "端口"
+
+msgid "Host (alternate config)"
+msgstr "端口（替代配置）"
+
+msgid "Device"
+msgstr "設備"
+
+msgid "Device (Auth required)"
+msgstr "設備（需要認證）"
+
+msgid "Virtual"
+msgstr "虛擬"
+
+msgid "USB-C"
+msgstr "USB-C"
+
+msgid "USB-A"
+msgstr "USB-A"
+
+msgid "Mini DP"
+msgstr "Mini DP"
+
+msgid "FireWire 800"
+msgstr "FireWire 800"
+
+msgid "HDMI"
+msgstr "HDMI"
+
+msgid "Audio Jack (Mini)"
+msgstr "Audio Jack (Mini)"
+
+msgid "Ethernet"
+msgstr "以太網"
+
+msgid "MagSafe"
+msgstr "MagSafe"
+
+msgid "MagSafe 2"
+msgstr "MagSafe 2"
+
+msgid "SD Card"
+msgstr "SD卡"
+
+msgid "Lightning"
+msgstr "閃電"
+
+msgid "30-Pin"
+msgstr "30-Pin"
+
+msgid "Inductive"
+msgstr "非接觸式"
+
+msgid "Smart Connector"
+msgstr "智能接點"
+
+msgid "Display Port"
+msgstr "Display Port"
+
+msgid "MagSafe 3"
+msgstr "MagSafe 3"
+
+msgid "Contactless"
+msgstr "免接觸式"
+
+msgid "Wireless"
+msgstr "無線"
+
+msgid "RX"
+msgstr "RX"
+
+msgid "TX"
+msgstr "TX"
+
+msgid "TEST"
+msgstr "TEST"
+
+msgid "INVALID"
+msgstr "INVALID"
+
+msgid "Supported List"
+msgstr "支持列表"
+
+msgid "Detached"
+msgstr "未掛載"
+
+msgid "Base"
+msgstr "基準"
+
+msgid "Offset"
+msgstr "偏移"
+
+msgid "Max"
+msgstr "最大"
+
+msgid "Undefined"
+msgstr "未定義"
+
+msgid "Negative Power Value"
+msgstr "負數的電量數據"
+
+msgid "Not Enough Data Points"
+msgstr "數據點不足"
+
+msgid "LPM Brightness Reduction"
+msgstr "低電量模式亮度減弱"
+
+msgid "Dim & Lock"
+msgstr "調暗與鎖定"
+
+msgid "Reduce the screen brightness when Low Power Mode is enabled."
+msgstr "啓用低電量模式時降低屏幕亮度。"
+
+msgid "Auto Dim"
+msgstr "自動調暗"
+
+msgid "Auto Dim/Lock on A/C"
+msgstr "接入電源時自動調暗/鎖定"
+
+msgid "Notice"
+msgstr "提示"
+
+msgid ""
+"Turning this off will keep the display from dimming and may shorten battery "
+"life."
+msgstr "關閉此選項後，屏幕將不會變暗，可能會縮短電池續航。"
