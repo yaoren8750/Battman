@@ -29,3 +29,8 @@ docs/battman-user-manuals/.deploy_temp/
 **/__pycache__/
 **/*.pyc
 **/*.pyo
+
+# Other
+.git-pr/*
+Terminal
+sed-i-tw-md
